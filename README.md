@@ -1,1 +1,1 @@
-# C20-Ghost-Runner
+# C20
